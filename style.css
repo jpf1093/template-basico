@@ -1,3 +1,13 @@
+:root{
+--background-color:white;
+--footer-color:grey;
+--footer-text:black;
+--header-color:white;
+--header-titulo:black;
+--button-color:red;
+--font-color:black;
+}
+
 *{
 margin: 0;
 padding: 0;
