@@ -1,7 +1,46 @@
+
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+}
+
+.main {
+    width: 500px;
+    max-width: 100%;
+    text-align: justify;
+}
+
+.main h3 {
+    color: gray;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.main p {
+    color: rgb(79, 79, 79);
+    font-size: 12px;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+.main img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 25px auto;
+    border-radius: 8px;
+>>>>>>> cont
 }
 
 .container{
