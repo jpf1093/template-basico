@@ -1,9 +1,7 @@
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+*{
+margin: 0;
+padding: 0;
+font-family: Arial, Helvetica, sans-serif;
 }
 
 .container {
@@ -73,3 +71,7 @@ justify-content: center;
   font-weight: bold;
 }
 
+
+.footer button:hover {
+    background-color: #d94d2f;
+}
